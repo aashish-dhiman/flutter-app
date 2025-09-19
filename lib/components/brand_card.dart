@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:tortoise/models.dart/card_details.dart';
+import 'package:tortoise/models/card_details.dart';
 
 class BrandCard extends StatelessWidget {
   const BrandCard({

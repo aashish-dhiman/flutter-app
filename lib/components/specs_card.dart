@@ -1,7 +1,7 @@
 import 'package:dotted_line/dotted_line.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:tortoise/models.dart/smartphone_details.dart';
+import 'package:tortoise/models/smartphone_details.dart';
 
 class SpecsCard extends StatefulWidget {
   const SpecsCard({

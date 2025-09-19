@@ -1,8 +1,8 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:tortoise/models.dart/card_details.dart';
-import 'package:tortoise/models.dart/smartphone_details.dart';
+import 'package:tortoise/models/card_details.dart';
+import 'package:tortoise/models/smartphone_details.dart';
 
 class SmartphoneData {
   static const List<CardDetails> smartphones = [

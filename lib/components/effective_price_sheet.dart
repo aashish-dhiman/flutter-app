@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:dotted_line/dotted_line.dart';
-import 'package:tortoise/models.dart/smartphone_details.dart';
+import 'package:tortoise/models/smartphone_details.dart';
 
 void showEffectivePriceSheet(
   BuildContext context,

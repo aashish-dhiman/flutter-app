@@ -1,4 +1,4 @@
-import 'package:tortoise/models.dart/card_details.dart';
+import 'package:tortoise/models/card_details.dart';
 
 class BrandData {
   static const List<CardDetails> brands = [

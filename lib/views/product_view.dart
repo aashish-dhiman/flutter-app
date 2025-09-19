@@ -7,7 +7,7 @@ import 'package:tortoise/components/color_picker_container.dart';
 import 'package:tortoise/components/effective_price_sheet.dart';
 import 'package:tortoise/components/storage_card.dart';
 import 'package:tortoise/components/specs_card.dart';
-import 'package:tortoise/models.dart/smartphone_details.dart';
+import 'package:tortoise/models/smartphone_details.dart';
 
 class ProductView extends StatefulWidget {
   const ProductView({super.key, required this.smartphoneDetails});
